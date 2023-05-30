@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import HelloWorld from './components/HelloWorld.vue'
+// File '/node_modules/highcharts/highcharts.d.ts' is not a module
+import Highcharts from 'highcharts'
 </script>
 
 <template>
